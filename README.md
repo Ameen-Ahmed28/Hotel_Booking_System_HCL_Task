@@ -26,6 +26,7 @@ Airbnb-inspired design
 Responsive layout
 Clean card-based interface
 Smooth hover effects
+
 🧱 Tech Stack
 Frontend
 ⚛️ React (Vite)
@@ -35,62 +36,8 @@ Backend (Optional / Future Scope)
 ☕ Spring Boot
 🛢️ MySQL
 🔗 REST APIs
-📂 Project Structure
-hotel-booking-app/
-│
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── HotelCard.jsx
-│   │   ├── DatePicker.jsx
-│   │
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── HotelList.jsx
-│   │   ├── HotelDetails.jsx
-│   │
-│   ├── data/
-│   │   └── hotels.json
-│   │
-│   ├── App.jsx
-│   └── main.jsx
-│
-└── README.md
-📊 Data Structure
 
-Each hotel contains:
 
-{
-  id: number,
-  name: string,
-  city: string,
-  location: string,
-  price: number,
-  description: string,
-  amenities: string[],
-  images: string[]
-}
-🔄 Application Flow
-User selects:
-City
-Check-in & Check-out dates
-Redirect to Hotel Listings
-Filtered by selected city
-Click on a hotel
-Navigate to Hotel Details page
-View:
-Images (carousel)
-Amenities
-Description
-Book Now
-Enabled only after selecting dates
-🧠 Key Concepts Used
-React Hooks (useState, useEffect)
-Component-based architecture
-Routing using React Router
-Conditional rendering
-State management
-JSON-based mock data
 ⚡ Installation & Setup
 Clone the repository
 git clone https://github.com/your-username/hotel-booking-app.git
