@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "d:\\Hotel_Booking_System_HCL_Task\\logs\\.4610b6744cc381ec3d4fc58da6b05814bc0b9a4b-audit.json",
+    "files": [
+        {
+            "date": 1775046633337,
+            "name": "d:\\Hotel_Booking_System_HCL_Task\\logs\\mcp-puppeteer-2026-04-01.log",
+            "hash": "30a4627f34236891926e0a8d11f2ca1541c93081ec97d28e5c63aaabe6808356"
+        }
+    ],
+    "hashType": "sha256"
+}
