@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "c:\\Users\\asus\\Desktop\\fullstack full\\logs\\.23e1cb21001648d37b6df6dc7683bf1ef304ba38-audit.json",
+    "files": [
+        {
+            "date": 1775014906381,
+            "name": "c:\\Users\\asus\\Desktop\\fullstack full\\logs\\mcp-puppeteer-2026-04-01.log",
+            "hash": "cfc204f9e9eb20a1c9c94eddb47a04d4278a00a737b783b293c9f43765b92afc"
+        }
+    ],
+    "hashType": "sha256"
+}
